@@ -1,16 +1,15 @@
-## Hi there 👋
+# Backend Developer
 
-<!--
-**Jongwoo-dev/Jongwoo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java 기반 백엔드 개발자입니다.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- Spring Boot
+- JPA / QueryDSL
+- MariaDB / MySQL
+- REST API 설계
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- 신규 기능 개발 및 기존 서비스 개선
+- 트랜잭션 처리 및 데이터 정합성 관리
+- 운영 환경 이슈 대응 및 성능 개선
