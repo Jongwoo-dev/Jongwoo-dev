@@ -15,6 +15,6 @@ Java 기반 백엔드 개발자입니다.
 - 운영 환경 이슈 대응 및 성능 개선
 
 ## Projects
-### AWGDAS
+### [AWGDAS](https://github.com/Jongwoo-dev/AWGDAS)
 멀티 에이전트 기반 웹게임 자동 생성 시스템입니다.  
 PL, Planner, Developer, QA 에이전트가 기획, 구현, 검증을 분담하며, 상태 머신 기반 파이프라인 제어와 QA 검증 흐름을 중심으로 설계하고 구현했습니다.
