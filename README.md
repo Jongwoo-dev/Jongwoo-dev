@@ -19,4 +19,4 @@ Java 기반 백엔드 개발자입니다.
 멀티 에이전트 기반 웹게임 자동 생성 시스템입니다.  
 PL, Planner, Developer, QA 에이전트가 기획, 구현, 검증을 분담하며, 상태 머신 기반 파이프라인 제어와 QA 검증 흐름을 중심으로 설계하고 구현했습니다.
 
-현재는 후속 프로젝트인 AWGDAS-v2에서 Spring Boot 기반 전환과 GitHub Issue/Claude Code 기반 하네스 엔지니어링 워크플로우를 실험하고 있습니다.
+현재는 후속 프로젝트인 [AWGDAS-v2](https://github.com/Jongwoo-dev/AWGDAS-v2)에서 Spring Boot 기반 전환과 GitHub Issue/Claude Code 기반 하네스 엔지니어링 워크플로우를 실험하고 있습니다.
